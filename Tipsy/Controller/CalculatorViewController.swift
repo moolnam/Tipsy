@@ -80,7 +80,7 @@ class CalculatorViewController: UIViewController {
             print(result)
 
             let resultTo2DecimalPlaces = String(format: "%.2f", result)
-            print(resultTo2DecimalPlaces)
+            
 
         }
     }
